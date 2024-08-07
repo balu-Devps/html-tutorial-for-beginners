@@ -12,5 +12,6 @@ Some essential networking basics include switches, routers, and wireless access 
 
 **Fundamental coding concepts** include a set of basic principles and related terminologies that programmers can follow to write code that is simple to understand, modular, and efficient. The basic coding concepts include variable declaration, basic control structures, data structures, object-oriented programming, troubleshooting and debugging, and various programming tools. These concepts are similar across different programming languages, such as C, C++, Python, and Java.
 
-![image](https://github.com/user-attachments/assets/d7b194dd-b82c-440c-910d-1f2be1c06b1f)
+![image](https://github.com/user-attachments/assets/927cd961-7f1d-4a26-90c3-744463dbe66c)
+
 

@@ -10,3 +10,4 @@ For example, content could be structured within a set of paragraphs, a list of b
 ## 1.HTML: The Structure Layer.
 ## 2.CSS: The Styles Layer.
 ## 3.JavaScript: The Behavior Layer.
+![image](https://github.com/user-attachments/assets/1218340e-b67c-4d02-8efb-d971e5ff9164)

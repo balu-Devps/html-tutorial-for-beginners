@@ -20,4 +20,4 @@ For example, content could be structured within a set of paragraphs, a list of b
 
 **JavaScript**
 ## Plays behavioral role or it interacts with the user, for ex: Alerting users through message boxes, or when user clicks on submit button, JavaScript validates user has entered all the required/mandatory field before submitting data to sever, etc. Through JS user can request data from server for ex: their checking account balances or transaction data.
-# Structure + Present + Behavior combined all these three makes the web working and helps human to improve their standard of living or simply.
+# Structure + Present + Behavior combined all these three makes the web working and helps human to improve their standard of living.

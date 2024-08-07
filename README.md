@@ -14,4 +14,7 @@ Some essential networking basics include switches, routers, and wireless access 
 
 ![image](https://github.com/user-attachments/assets/927cd961-7f1d-4a26-90c3-744463dbe66c)
 
+## computer basic:
+A computer is an electronic device that manipulates information, or data. It has the ability to store, retrieve, and process data. You may already know that you can use a computer to type documents, send email, play games, and browse the Web.
+![image](https://github.com/user-attachments/assets/5dc7b9ef-b605-4278-b80d-bc83b7dd8404)
 

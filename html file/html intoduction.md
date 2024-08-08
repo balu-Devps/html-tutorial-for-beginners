@@ -6,9 +6,9 @@
 ![image](https://github.com/user-attachments/assets/864133c8-8347-42f3-9012-5338e4e8dfd4)
 
 # The Three Layers of Web Design html
-## 1.HTML: The Structure Layer.
-## 2.CSS: The Styles Layer.
-## 3.JavaScript: The Behavior Layer.
+## 1.HTML: The Structure Layer
+## 2.CSS: The Styles Layer
+## 3.JavaScript: The Behavior Layer
 ![image](https://github.com/user-attachments/assets/1218340e-b67c-4d02-8efb-d971e5ff9164)
 
 # HTML

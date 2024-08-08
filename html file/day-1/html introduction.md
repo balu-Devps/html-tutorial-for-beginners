@@ -25,4 +25,4 @@ A web page can be identified by entering an URL. A Web page can be of the static
 <h1>Write Your First Heading</h1>  
 <p>Write Your First Paragraph.</p>  
 </body>  
-</html>  `
+</html>`

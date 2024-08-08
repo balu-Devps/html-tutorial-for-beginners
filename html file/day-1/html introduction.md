@@ -17,7 +17,7 @@ Markup language makes text more interactive and dynamic. It can turn text into i
 A web page can be identified by entering an URL. A Web page can be of the static or dynamic type. With the help of HTML only, we can create static web pages.
 
 
-\*<!DOCTYPE>  
+<!---<!DOCTYPE>  
 <html>  
 <head>  
 <title>Web page title</title>  
@@ -26,5 +26,5 @@ A web page can be identified by entering an URL. A Web page can be of the static
 <h1>Write Your First Heading</h1>  
 <p>Write Your First Paragraph.</p>  
 </body>  
-</html>\*
-Let's rename \*our-new-project\* to \*our-old-project\*.
+</html>--->
+

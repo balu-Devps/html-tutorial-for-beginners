@@ -15,3 +15,14 @@ Markup language makes text more interactive and dynamic. It can turn text into i
 ## _3.Web Page_
 **Web Page:** A web page is a document which is commonly written in HTML and translated by a web browser.
 A web page can be identified by entering an URL. A Web page can be of the static or dynamic type. With the help of HTML only, we can create static web pages.
+
+`<!DOCTYPE>  
+<html>  
+<head>  
+<title>Web page title</title>  
+</head>  
+<body>  
+<h1>Write Your First Heading</h1>  
+<p>Write Your First Paragraph.</p>  
+</body>  
+</html>  `

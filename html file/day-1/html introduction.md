@@ -18,6 +18,7 @@ A web page can be identified by entering an URL. A Web page can be of the static
 
 
 '<!DOCTYPE>  
+Let's rename \*our-new-project\* to \*our-old-project\*.
 <html>  
 <head>  
 <title>Web page title</title>  
@@ -27,3 +28,4 @@ A web page can be identified by entering an URL. A Web page can be of the static
 <p>Write Your First Paragraph.</p>  
 </body>  
 </html>'
+Let's rename \*our-new-project\* to \*our-old-project\*.
